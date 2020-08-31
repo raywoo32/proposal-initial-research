@@ -29,6 +29,14 @@ TODO: visualize references as a graph by topic where leaves are articles
 
 TODO: Visualize articles as a set fo linked lists from refferences and reccomendations (Tree).
 
+## MODE OF CONSUMPTION and time 
+
+Podcastle:
+[(Adriaanse MA, 2011)](https://www.sciencedirect.com/science/article/pii/S0195666310005325?via%3Dihub) 
+Ipad:
+Laptop PDF reader: 
+
+
 ## REFERENCE LIST 
 
 The format is [Author, year](As hyperlink) - ".md file with notes"
