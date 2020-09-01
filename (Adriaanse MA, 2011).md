@@ -1,8 +1,8 @@
-##Key Ideas: 
+## Key Ideas: 
 - Intentions VS Implementations, people can meet their goals more easily when an "implementation intentions" is met. Basically SMART goals
 - Deminishing bad behaviours is harder than replacing behaviours 
 
-##Relevence to my own research: 
+## Relevence to my own research: 
 - The concept of implementaiton intention 
 - Replacing behaviours as more powerful than deminishing bad behaviours
 
@@ -16,13 +16,13 @@
 - Human memory and reporting 
 - Does type of implementation intention matter?
 
-##Priority:
+## Priority:
 - low 
 
 ## Papers found from this paper to read 
 - NA
 
-##Categories: 
+## Categories: 
 - Healthy eating
 - Implementation-intentions 
 - Reccomendations 
