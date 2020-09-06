@@ -2,6 +2,10 @@
 
 Current Article Count = 8
 
+## Proposal Guidelines: 
+
+- See thesisNotes.md
+
 ## Possible Research Questions 
 
 1. Defining how gesture elicidation can be explored in AR? 
