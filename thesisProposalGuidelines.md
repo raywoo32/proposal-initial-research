@@ -26,6 +26,16 @@ Your thesis committee will consider the following:
 1.Is the background about the research problem, its context, and gaps in knowledge clear and appropriately elaborated? Is the importance of the research problem clearly described?
 2.Is the research purpose clear and persuasively described? Is the relevance of the research convincingly explained?
 3.Does appropriate prior research inform the study and are key references from peer-reviewed literature cited? 
+4.Are the research questions or specific aims/objectives well defined, appropriate, and clearly stated? If the study questions/aims can be articulated as hypotheses, are hypotheses included and appropriate?
+5.Is a theoretical perspective used, and if so, is it adequately described and appropriate for the research purpose and question(s)?
+6.Is the type of research design clearly stated? Is it appropriate to answer the research question(s)? Is it adequately and appropriately explained?
+7.Are the methods appropriate to meet the objectives? Is the methods section sufficiently detailed? For instance, is the sampling plan appropriate and clearly described? Are procedures and the analysis plan explained and appropriate?
+8.Does the project appear to meet expectations of other relevant parties, including the Office of Research Ethics, and any other relevant bodies for your research, such as partner organizations funding the research?
+9.Is the combination of elements of the proposal, from the statement of the problem on through to methods, coherent? Do the pieces make sense and work together in terms of design and methodology?
+10.Are the main limitations considered and ways to mitigate these limitations explained?
+11.Is the proposed schedule of tasks described in a clear, feasible workplan or timeline?
+12.Is the writing grammatically correct, free of typos, well organized, and clear?
+13.Is the reference format a standard one, and is it used consistently and correctly?
 
 #### Background 
 - Include a statement of the problem. Provide context about the problem, who it affects, its importance, and the need/gap that needs to be filled. 
