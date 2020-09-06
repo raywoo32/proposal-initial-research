@@ -4,7 +4,7 @@ Current Article Count = 8
 
 ## Proposal Guidelines: 
 
-- See thesisNotes.md
+- See thesisProposalGuidelines.md
 
 ## Possible Research Questions 
 
