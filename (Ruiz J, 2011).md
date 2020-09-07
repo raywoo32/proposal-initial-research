@@ -41,3 +41,4 @@
 
 0.45h, very efficient, predownloaded on ipad, used Forest app, worked in morning, on vyvanse 
 Caveat: workspace set up too 30 minutes! (app updates + distracted by organizational flow) 
+TODO: create empty .md file for all TO READ! papers
