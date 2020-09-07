@@ -27,6 +27,10 @@ a.
 4. 5G 
 a. 
 
+5. Gestures 
+a. Mobile, Tabletop 
+b. Experiences VS non-experienced user 
+
 TODO: visualize references as a graph by topic where leaves are articles
 
 ## HOW ARTICLE WAS FOUND 
