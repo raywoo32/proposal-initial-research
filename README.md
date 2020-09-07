@@ -15,32 +15,14 @@ Documented Count = 19
 ## TOPICS 
 
 1. Games for Health 
- - {1}
-
 2. AR 
- - {7}
-
 3. VR 
- - {3}
-
-4. 5G 
- - 
-
+4. 5G
 5. Gestures 
- - {3, 4, 5, 6, 7, 8}
- - Conclusion: Thanks to Marco's help it was easy to find the correct references about gesture elucidation. I feel somewhat comfortable with the topic
-
 6. AR gamex
- - {9, 10, 11, 12, 13, }
-
 7. Other 
- - {2} Implementation Intention 
-
-TODO: visualize references as a graph by topic where leaves are articles
 
 ## HOW ARTICLE WAS FOUND 
-
-TODO: Visualize articles as a set fo linked lists from refferences and reccomendations (Tree).
 
 Pokemon Go Paper (1)
  - {2}
@@ -57,13 +39,12 @@ Google Scholar "AR games"
 ## MODE OF CONSUMPTION and time 
 
 Podcastle:
-- (2) 1h
-- 
+- (2) 1h 
 Laptop PDF reader: 
 - (1) 2h
 
-iPad:
-- (3)
+iPad and note taking on Github: 
+- (3) 
 - (4) 1.5h
 - (5) 
 - (6) 0.75h
