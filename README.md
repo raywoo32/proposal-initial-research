@@ -1,11 +1,13 @@
 # proposal-initial-research
 
 Read Count = 8
+
 Documented Count = 19
 
 ## Proposal Guidelines: 
 
 - See thesisProposalGuidelines.md
+- See thesisProposalPresentation.md
 
 ## Possible Research Questions 
 
@@ -74,7 +76,7 @@ Unread: AR Games
 9. [(Klimm M, 2019)](https://dl.acm.org/doi/10.1145/3341215.3358249) CANT FIND FULL TEXT :(((
 10. [(Haahr M, 2017)](https://www.researchgate.net/publication/320886488_Creating_Location-Based_Augmented-Reality_Games_for_Cultural_Heritage)
 11. [(Broll W, 2008)](https://www.researchgate.net/publication/3210675_Toward_next-gen_mobile_AR_games)
-12. [Klopfer E, 2011)](https://onlinelibrary.wiley.com/doi/abs/10.1002/yd.378?casa_token=o-3E09idJK0AAAAA:rawp_kT67DF9hFbQoMd8zhKYUu4lI8S-KpYUr_GN-zo6jatHEQYlvKLf3XamNlYPF0sSUpUIBRsWJQ) 
+12. [(Klopfer E, 2011)](https://onlinelibrary.wiley.com/doi/abs/10.1002/yd.378?casa_token=o-3E09idJK0AAAAA:rawp_kT67DF9hFbQoMd8zhKYUu4lI8S-KpYUr_GN-zo6jatHEQYlvKLf3XamNlYPF0sSUpUIBRsWJQ) 
 13. [(Chang YH, 2011)](https://ieeexplore.ieee.org/abstract/document/6093653)) 
 14. [(Lee CH, 2018)](https://www.semanticscholar.org/paper/What-drives-stickiness-in-location-based-AR-games-Lee-Chiang/69c7545bef083fde4bf94db446d030450b8fab8a)
 15. [(Schrier K, 2006)](https://www.researchgate.net/publication/234823573_Using_augmented_reality_games_to_teach_21st_century_skills)
