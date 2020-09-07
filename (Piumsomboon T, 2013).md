@@ -42,6 +42,6 @@
 ## Categories: 
 - AR, gestures, 
 
-Start time: 11:45am-
-Efficiency: 
+Start time: 11:45am-1:00pm
+Efficiency: Medium (took break) 
 Consumption method: highlight ipad, forest (pomodoros), while taking notes
