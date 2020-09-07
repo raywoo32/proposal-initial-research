@@ -78,6 +78,7 @@ Pokemon Go Paper
 2. [(Adriaanse MA, 2011)](https://www.sciencedirect.com/science/article/pii/S0195666310005325?via%3Dihub) 
 
 Gestures: 
+
 3. Marco's Paper 
 4. [(Wobbrock JO, 2009)](http://dl.acm.org/citation.cfm?doid=1518701.1518866)
 5. [(Morris MR, 2010](https://dl.acm.org/doi/10.5555/1839214.1839260) 
@@ -87,6 +88,7 @@ Gestures:
 9. [(Klimm M, 2019)](https://dl.acm.org/doi/10.1145/3341215.3358249) CANT FIND FULL TEXT :(((
 
 Unread: AR Games
+
 10. [(Haahr M, 2017)](https://www.researchgate.net/publication/320886488_Creating_Location-Based_Augmented-Reality_Games_for_Cultural_Heritage)
 11. [(Broll W, 2008)](https://www.researchgate.net/publication/3210675_Toward_next-gen_mobile_AR_games)
 12. [Klopfer E, 2011)](https://onlinelibrary.wiley.com/doi/abs/10.1002/yd.378?casa_token=o-3E09idJK0AAAAA:rawp_kT67DF9hFbQoMd8zhKYUu4lI8S-KpYUr_GN-zo6jatHEQYlvKLf3XamNlYPF0sSUpUIBRsWJQ) 
