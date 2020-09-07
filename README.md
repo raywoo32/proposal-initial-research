@@ -1,6 +1,7 @@
 # proposal-initial-research
 
-Current Article Count = 8
+Read Count = 8
+Documented Count = 19
 
 ## Proposal Guidelines: 
 
@@ -9,31 +10,31 @@ Current Article Count = 8
 ## Possible Research Questions 
 
 1. Defining how gesture elicidation can be explored in AR? 
-2. AR in the context of 5G
+2. AR in the context of 5G and LBG
 
 ## TOPICS 
 
 1. Games for Health 
-- {1}
+ - {1}
 
 2. AR 
-- {7}
+ - {7}
 
 3. VR 
-- {3}
+ - {3}
 
 4. 5G 
-- 
+ - 
 
 5. Gestures 
-- {3, 4, 5, 6, 7, 8}
-- Conclusion: Thanks to Marco's help it was easy to find the correct references about gesture elucidation. I feel somewhat comfortable with the topic
+ - {3, 4, 5, 6, 7, 8}
+ - Conclusion: Thanks to Marco's help it was easy to find the correct references about gesture elucidation. I feel somewhat comfortable with the topic
 
-6. AR games
-- {9, 10}
+6. AR gamex
+ - {9, 10, 11, 12, 13, }
 
 7. Other 
-- {2} Implmentation Intention 
+ - {2} Implementation Intention 
 
 TODO: visualize references as a graph by topic where leaves are articles
 
@@ -47,10 +48,11 @@ Pokemon Go Paper (1)
 Marco's Paper (3) 
 - {4, 5, 6, 7, 8} 
 
-Parkour Paper (not right one lol) {9} 
+Parkour Paper (not right one lol) 
+- {9} 
 
 Google Scholar "AR games"
-- {10}
+- {10-19}
 
 ## MODE OF CONSUMPTION and time 
 
@@ -85,10 +87,10 @@ Gestures:
 6. [(Ruiz J, 2011)](http://dl.acm.org/citation.cfm?doid=1978942.1978971)
 7. [(Piumsomboon T, 2013)](https://dl.acm.org/doi/10.1145/2468356.2468527) 
 8. [(Vatavu RD, 2015)](https://dl.acm.org/doi/10.1145/2702123.2702223) 
-9. [(Klimm M, 2019)](https://dl.acm.org/doi/10.1145/3341215.3358249) CANT FIND FULL TEXT :(((
 
 Unread: AR Games
 
+9. [(Klimm M, 2019)](https://dl.acm.org/doi/10.1145/3341215.3358249) CANT FIND FULL TEXT :(((
 10. [(Haahr M, 2017)](https://www.researchgate.net/publication/320886488_Creating_Location-Based_Augmented-Reality_Games_for_Cultural_Heritage)
 11. [(Broll W, 2008)](https://www.researchgate.net/publication/3210675_Toward_next-gen_mobile_AR_games)
 12. [Klopfer E, 2011)](https://onlinelibrary.wiley.com/doi/abs/10.1002/yd.378?casa_token=o-3E09idJK0AAAAA:rawp_kT67DF9hFbQoMd8zhKYUu4lI8S-KpYUr_GN-zo6jatHEQYlvKLf3XamNlYPF0sSUpUIBRsWJQ) 
