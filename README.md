@@ -31,6 +31,8 @@ a.
 a. Mobile, Tabletop 
 b. Experiences VS non-experienced user 
 
+6. Parkour/AR games
+
 TODO: visualize references as a graph by topic where leaves are articles
 
 ## HOW ARTICLE WAS FOUND 
@@ -46,6 +48,9 @@ Marco's Paper (3)
 -> (6)
 -> (7) 
 -> (8) 
+
+Parkour Paper (not right one lol) 
+- (9) 
 
 ## MODE OF CONSUMPTION and time 
 
@@ -76,3 +81,7 @@ The format is [Author, year](As hyperlink) - ".md file with notes"
 6. [(Ruiz J, 2011)](http://dl.acm.org/citation.cfm?doid=1978942.1978971)
 7. [(Piumsomboon T, 2013)](https://dl.acm.org/doi/10.1145/2468356.2468527) 
 8. [(Vatavu RD, 2015)](https://dl.acm.org/doi/10.1145/2702123.2702223) 
+
+9. [(Klimm M, 2019)](https://dl.acm.org/doi/10.1145/3341215.3358249) CANT FIND FULL TEXT :(((
+
+,
