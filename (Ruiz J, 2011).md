@@ -38,3 +38,5 @@
 - Gestures
 - Guessability studies **New concept! 
 - Sensors 
+
+0.45h, very efficient, predownloaded on ipad, used Forest app, worked in morning, on vyvanse 
