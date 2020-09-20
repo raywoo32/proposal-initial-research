@@ -74,15 +74,18 @@ Gestures:
 Unread: AR Games
 
 9. [(Klimm M, 2019)](https://dl.acm.org/doi/10.1145/3341215.3358249) CANT FIND FULL TEXT :(((
-10. [(Haahr M, 2017)](https://www.researchgate.net/publication/320886488_Creating_Location-Based_Augmented-Reality_Games_for_Cultural_Heritage)
-11. [(Broll W, 2008)](https://www.researchgate.net/publication/3210675_Toward_next-gen_mobile_AR_games)
-12. [(Klopfer E, 2011)](https://onlinelibrary.wiley.com/doi/abs/10.1002/yd.378?casa_token=o-3E09idJK0AAAAA:rawp_kT67DF9hFbQoMd8zhKYUu4lI8S-KpYUr_GN-zo6jatHEQYlvKLf3XamNlYPF0sSUpUIBRsWJQ) 
-13. [(Chang YH, 2011)](https://ieeexplore.ieee.org/abstract/document/6093653)) 
-14. [(Lee CH, 2018)](https://www.semanticscholar.org/paper/What-drives-stickiness-in-location-based-AR-games-Lee-Chiang/69c7545bef083fde4bf94db446d030450b8fab8a)
-15. [(Schrier K, 2006)](https://www.researchgate.net/publication/234823573_Using_augmented_reality_games_to_teach_21st_century_skills)
-16. [(Laine T, 2016)](https://www.researchgate.net/publication/289602126_Science_Spots_AR_a_platform_for_science_learning_games_with_augmented_reality)
-17. [(Li J, 2017)](https://www.researchgate.net/publication/317801421_Augmented_Reality_Games_for_Learning_A_Literature_Review)
-18. [(Wang SS, 2018)](https://journals.sagepub.com/doi/abs/10.1177/0013916518817878)
-19. [(Oleksy T, 2017)](https://www.researchgate.net/publication/317392637_Catch_them_all_and_increase_your_place_attachment_The_role_of_location-based_augmented_reality_games_in_changing_people_-_place_relations)
+10. [(Broll W, 2008)](https://www.researchgate.net/publication/3210675_Toward_next-gen_mobile_AR_games)
+11. [(Klopfer E, 2011)](https://pubmed.ncbi.nlm.nih.gov/21240956/) 
+12. [(Chang YH, 2011)](https://ieeexplore.ieee.org/abstract/document/6093653)) 
+13. [(Lee CH, 2018)](https://www.semanticscholar.org/paper/What-drives-stickiness-in-location-based-AR-games-Lee-Chiang/69c7545bef083fde4bf94db446d030450b8fab8a)
+14. [(Schrier K, 2006)](https://www.researchgate.net/publication/234823573_Using_augmented_reality_games_to_teach_21st_century_skills)
+15. [(Laine T, 2016)](https://www.researchgate.net/publication/289602126_Science_Spots_AR_a_platform_for_science_learning_games_with_augmented_reality)
+16. [(Li J, 2017)](https://www.researchgate.net/publication/317801421_Augmented_Reality_Games_for_Learning_A_Literature_Review)
+17. [(Wang SS, 2018)](https://journals.sagepub.com/doi/abs/10.1177/0013916518817878)
+18. [(Oleksy T, 2017)](https://www.researchgate.net/publication/317392637_Catch_them_all_and_increase_your_place_attachment_The_role_of_location-based_augmented_reality_games_in_changing_people_-_place_relations)
+
+LBG
+19. [(Haahr M, 2017)](https://www.researchgate.net/publication/320886488_Creating_Location-Based_Augmented-Reality_Games_for_Cultural_Heritage)
+
 
 [()]()
