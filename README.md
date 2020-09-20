@@ -75,7 +75,7 @@ Unread: AR Games
 
 9. [(Klimm M, 2019)](https://dl.acm.org/doi/10.1145/3341215.3358249) CANT FIND FULL TEXT :(((
 10. [(Broll W, 2008)](https://www.researchgate.net/publication/3210675_Toward_next-gen_mobile_AR_games)
-11. [(Klopfer E, 2011)](https://pubmed.ncbi.nlm.nih.gov/21240956/) 
+11. [(Klopfer E, 2011)](https://www.academia.edu/30774818/Augmenting_your_own_reality_Student_authoring_of_science_based_augmented_reality_games) 
 12. [(Chang YH, 2011)](https://ieeexplore.ieee.org/abstract/document/6093653)) 
 13. [(Lee CH, 2018)](https://www.semanticscholar.org/paper/What-drives-stickiness-in-location-based-AR-games-Lee-Chiang/69c7545bef083fde4bf94db446d030450b8fab8a)
 14. [(Schrier K, 2006)](https://www.researchgate.net/publication/234823573_Using_augmented_reality_games_to_teach_21st_century_skills)
@@ -85,6 +85,7 @@ Unread: AR Games
 18. [(Oleksy T, 2017)](https://www.researchgate.net/publication/317392637_Catch_them_all_and_increase_your_place_attachment_The_role_of_location-based_augmented_reality_games_in_changing_people_-_place_relations)
 
 LBG
+
 19. [(Haahr M, 2017)](https://www.researchgate.net/publication/320886488_Creating_Location-Based_Augmented-Reality_Games_for_Cultural_Heritage)
 
 
