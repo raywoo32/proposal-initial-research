@@ -82,7 +82,7 @@ Unread: AR Games
 10. [(Broll W, 2008)](https://www.researchgate.net/publication/3210675_Toward_next-gen_mobile_AR_games)
 11. [(Klopfer E, 2011)](https://www.academia.edu/30774818/Augmenting_your_own_reality_Student_authoring_of_science_based_augmented_reality_games) 
 12. [(Chang YH, 2011)](https://ieeexplore.ieee.org/abstract/document/6093653)) 
-13. [(Schrier K, 2006)](https://www.researchgate.net/publication/234823573_Using_augmented_reality_games_to_teach_21st_century_skills) *
+13. [(Schrier K, 2006)](https://www.researchgate.net/publication/234823573_Using_augmented_reality_games_to_teach_21st_century_skills) 
 14. [(Laine T, 2016)](https://www.researchgate.net/publication/289602126_Science_Spots_AR_a_platform_for_science_learning_games_with_augmented_reality) *
 15. [(Li J, 2017)](https://www.researchgate.net/publication/317801421_Augmented_Reality_Games_for_Learning_A_Literature_Review) *
 16. [(Wang SS, 2018)](https://journals.sagepub.com/doi/abs/10.1177/0013916518817878) *
