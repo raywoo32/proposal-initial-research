@@ -1,8 +1,8 @@
 # proposal-initial-research
 
-Read Count = 8
+Read Count = 14
 
-Documented Count = 19
+Documented Count = 24
 
 ## Proposal Guidelines: 
 
