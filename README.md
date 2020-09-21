@@ -1,8 +1,10 @@
 # proposal-initial-research
 
-Read Count = 14
+Read Count = 15
 
 Documented Count = 24
+
+Unread = *
 
 ## Proposal Guidelines: 
 
@@ -76,24 +78,24 @@ Gestures:
 
 Unread: AR Games
 
-9. [(Klimm M, 2019)](https://dl.acm.org/doi/10.1145/3341215.3358249) CANT FIND FULL TEXT :(((
+9. [(Klimm M, 2019)](https://dl.acm.org/doi/10.1145/3341215.3358249) CANT FIND FULL TEXT :((( *
 10. [(Broll W, 2008)](https://www.researchgate.net/publication/3210675_Toward_next-gen_mobile_AR_games)
 11. [(Klopfer E, 2011)](https://www.academia.edu/30774818/Augmenting_your_own_reality_Student_authoring_of_science_based_augmented_reality_games) 
 12. [(Chang YH, 2011)](https://ieeexplore.ieee.org/abstract/document/6093653)) 
-13. [(Lee CH, 2018)](https://www.semanticscholar.org/paper/What-drives-stickiness-in-location-based-AR-games-Lee-Chiang/69c7545bef083fde4bf94db446d030450b8fab8a) *
-14. [(Schrier K, 2006)](https://www.researchgate.net/publication/234823573_Using_augmented_reality_games_to_teach_21st_century_skills) *
-15. [(Laine T, 2016)](https://www.researchgate.net/publication/289602126_Science_Spots_AR_a_platform_for_science_learning_games_with_augmented_reality) *
-16. [(Li J, 2017)](https://www.researchgate.net/publication/317801421_Augmented_Reality_Games_for_Learning_A_Literature_Review) *
-17. [(Wang SS, 2018)](https://journals.sagepub.com/doi/abs/10.1177/0013916518817878) *
-18. [(Oleksy T, 2017)](https://www.researchgate.net/publication/317392637_Catch_them_all_and_increase_your_place_attachment_The_role_of_location-based_augmented_reality_games_in_changing_people_-_place_relations) *
+13. [(Schrier K, 2006)](https://www.researchgate.net/publication/234823573_Using_augmented_reality_games_to_teach_21st_century_skills) *
+14. [(Laine T, 2016)](https://www.researchgate.net/publication/289602126_Science_Spots_AR_a_platform_for_science_learning_games_with_augmented_reality) *
+15. [(Li J, 2017)](https://www.researchgate.net/publication/317801421_Augmented_Reality_Games_for_Learning_A_Literature_Review) *
+16. [(Wang SS, 2018)](https://journals.sagepub.com/doi/abs/10.1177/0013916518817878) *
+17. [(Oleksy T, 2017)](https://www.researchgate.net/publication/317392637_Catch_them_all_and_increase_your_place_attachment_The_role_of_location-based_augmented_reality_games_in_changing_people_-_place_relations) *
 
 LBG
 
-19. [(Haahr M, 2017)](https://www.researchgate.net/publication/320886488_Creating_Location-Based_Augmented-Reality_Games_for_Cultural_Heritage)
-20. [(Mullen JD, 2013 patent)](https://patents.google.com/patent/US8585476B2/en) *
-21. [(Avouris N and Yiannoutsou N, 2012)](http://www.jucs.org/jucs_18_15/a_review_of_mobile/jucs_18_15_2120_2142_avouris.pdf) *
-22. [(Laato S, 2020)](https://reader.elsevier.com/reader/sd/pii/S0736585320301179?token=1B58B0EAAE5DFC04BF7A16C9E1EFC92E94156A2EA55F49A7BECE12C9D1FF65D059787D035AAAEE62A8BAE74D0E473721) *
-23. [(Papangelis K, 2017)](https://www.researchgate.net/publication/319637062_Conquering_the_City_Understanding_perceptions_of_Mobility_and_Human_Territoriality_in_Location-based_Mobile_Games) *
-24. [(Chatzidimitris T, 2016)](https://www.researchgate.net/publication/304457398_SoundPacman_Audio_augmented_reality_in_location-based_games) *
+18. [(Haahr M, 2017)](https://www.researchgate.net/publication/320886488_Creating_Location-Based_Augmented-Reality_Games_for_Cultural_Heritage)
+19. [(Mullen JD, 2013 patent)](https://patents.google.com/patent/US8585476B2/en) *
+20. [(Avouris N and Yiannoutsou N, 2012)](http://www.jucs.org/jucs_18_15/a_review_of_mobile/jucs_18_15_2120_2142_avouris.pdf) *
+21. [(Laato S, 2020)](https://reader.elsevier.com/reader/sd/pii/S0736585320301179?token=1B58B0EAAE5DFC04BF7A16C9E1EFC92E94156A2EA55F49A7BECE12C9D1FF65D059787D035AAAEE62A8BAE74D0E473721) *
+22. [(Papangelis K, 2017)](https://www.researchgate.net/publication/319637062_Conquering_the_City_Understanding_perceptions_of_Mobility_and_Human_Territoriality_in_Location-based_Mobile_Games) *
+23. [(Chatzidimitris T, 2016)](https://www.researchgate.net/publication/304457398_SoundPacman_Audio_augmented_reality_in_location-based_games) *
+24 [(Lee CH, 2018)](https://www.semanticscholar.org/paper/What-drives-stickiness-in-location-based-AR-games-Lee-Chiang/69c7545bef083fde4bf94db446d030450b8fab8a) 
 
 [()]()
