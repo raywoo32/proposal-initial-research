@@ -38,6 +38,9 @@ Parkour Paper (not right one lol)
 Google Scholar "AR games"
 - {10-19}
 
+Google Scholar "Location Based Games"
+- {20-24}
+
 ## MODE OF CONSUMPTION and time 
 
 Podcastle:
