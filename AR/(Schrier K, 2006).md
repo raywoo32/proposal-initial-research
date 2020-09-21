@@ -6,6 +6,7 @@
 
 ## Relevence to my own research: 
 - medium, early ar game
+- the way it was written, as a "story" to show examples of how health/education/skills were benifited from use 
 
 ## Personal comments 
 - I think this is really well designed as an educational tool. 
