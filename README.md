@@ -96,6 +96,6 @@ LBG
 21. [(Laato S, 2020)](https://reader.elsevier.com/reader/sd/pii/S0736585320301179?token=1B58B0EAAE5DFC04BF7A16C9E1EFC92E94156A2EA55F49A7BECE12C9D1FF65D059787D035AAAEE62A8BAE74D0E473721) *
 22. [(Papangelis K, 2017)](https://www.researchgate.net/publication/319637062_Conquering_the_City_Understanding_perceptions_of_Mobility_and_Human_Territoriality_in_Location-based_Mobile_Games) *
 23. [(Chatzidimitris T, 2016)](https://www.researchgate.net/publication/304457398_SoundPacman_Audio_augmented_reality_in_location-based_games) *
-24 [(Lee CH, 2018)](https://www.semanticscholar.org/paper/What-drives-stickiness-in-location-based-AR-games-Lee-Chiang/69c7545bef083fde4bf94db446d030450b8fab8a) 
+24. [(Lee CH, 2018)](https://www.semanticscholar.org/paper/What-drives-stickiness-in-location-based-AR-games-Lee-Chiang/69c7545bef083fde4bf94db446d030450b8fab8a) 
 
 [()]()
